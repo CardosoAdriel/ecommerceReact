@@ -1,0 +1,13 @@
+.products-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+
+.products-container .car-header {
+  display: flex;
+  justify-content: space-evenly;
+}

@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1, 
+      "description": "Mochila Essential 15.6, Anti-Furto E Resistente A Água, Dell, Preta", 
+      "price": 159.00, 
+      "image": "https://cdn.gatry.com/gatry-static/promocao/imagem/958b5c57893f22808489dcfc62840d7a.jpg"
+    }, 
+    {
+      "id": 2, 
+      "description": "Placa De Vídeo Asrock Radeon RX 6600 XT Challenger D OC, 8GB, 90-GA2TZZ-00UANF", 
+      "price": 3899.99, 
+      "image": "https://cdn.gatry.com/gatry-static/promocao/imagem/b193ea2a6734c7feed47bce09d4f7977.jpg"
+    },
+    {
+      "id": 3, 
+      "description": "Frigideira, Curry, 24 Cm, Cobre, Brinox", 
+      "price": 69.80, 
+      "image": "https://cdn.gatry.com/gatry-static/promocao/imagem/217bb5bc84cee31fc9b2e7dade107d79.jpg"
+    },
+    {
+      "id": 4, 
+      "description": "Headset Gamer Sem Fio Logitech G533 7.1 Dolby Surround Com Drivers De Áudio Pro-G E Bateria", 
+      "price": 503.40, 
+      "image": "https://cdn.gatry.com/gatry-static/promocao/imagem/76a494231d32afc31ea561500e6d792c.jpg"
+    },
+    {
+      "id": 5, 
+      "description": "Colchão Solteiro Inflável Flocked Bestway - Azul", 
+      "price": 49.92, 
+      "image": "https://cdn.gatry.com/gatry-static/promocao/imagem/75605a612683cf07506da112a5e392b6.jpg"
+    }
+  ]
+}
