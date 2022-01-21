@@ -12,7 +12,6 @@ const Products = props => {
     await fetch('http://localhost:3200/products')
     .then((response) => response.json())
     .then(res => {
-      console.log(res)
       setProducts(res)
     })
   }

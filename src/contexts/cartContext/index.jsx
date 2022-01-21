@@ -10,7 +10,6 @@ export const CartProvider = ({ children }) => {
     if(cart.length > 0) {
       const sum = cart.reduce((accumulator, prod) => accumulator + prod.price, 0)
       setAmount(() => sum)
-      console.log(amount)
     } else if (cart.length === 0) {
       setAmount(0)
     }
